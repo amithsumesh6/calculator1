@@ -1,4 +1,4 @@
-
+@media (max-width: 600px) {
 body {
     display: flex;
     justify-content: center;
@@ -109,4 +109,5 @@ h1 {
 
 .bottom-buttons .btn {
     height: 55px;
+}
 }
